@@ -11,7 +11,7 @@ Skills: `SQL` `Python` `Power BI` `Excel` `Oracle HCM`
 **Tools:** Python (pandas, openpyxl), Power BI  
 **What:** End-to-end pipeline: raw Oracle export → data cleaning → turnover dashboard  
 **Result:** Matched 245/248 termination records (98.8% accuracy) across 6 subsidiaries  
-> *Coming soon: code + dashboard screenshots*
+> ***Code:** [hr_etl_pipeline.py](hr_etl_pipeline.py)
 
 
 ## About
