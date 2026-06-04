@@ -27,6 +27,6 @@ Skills: `SQL` `Python` `Power BI` `Excel` `Oracle HCM`
 ---
 
 ## About
-14 years in HR at KAZ Minerals Group (VostokTsvetmet).  
+14 years in HR at KAZ Minerals Group.  
 Transitioning into People Analytics & HR BI roles.  
 Based in Almaty, Kazakhstan.
