@@ -21,7 +21,7 @@ Skills: `SQL` `Python` `Power BI` `Excel` `Oracle HCM`
 **Metrics covered:** Budget vs actual by company, awarded vs actual headcount, category breakdown  
 **Screenshots:**  
 ![Fund A Overview](Fund A_Overview.png)  
-![Fund A Category Detail](Fund A 2_By categories.png)
+![Fund A Category Detail](Fund A_By Categories.png)
 > ⚠️ All figures and company names anonymized for confidentiality purposes
 
 ---
