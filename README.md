@@ -20,8 +20,8 @@ Skills: `SQL` `Python` `Power BI` `Excel` `Oracle HCM`
 **What:** Multi-page interactive dashboard for tracking Fund A spending across 6 companies  
 **Metrics covered:** Budget vs actual by company, awarded vs actual headcount, category breakdown  
 **Screenshots:**  
-![Fund A Overview](Fund A_Overview.png)  
-![Fund A Category Detail](Fund A_By Categories.png)
+![Fund A Overview](Fund%20A_Overview.png)  
+![Fund A Category Detail](Fund%20A_By%20Categories.png)
 > ⚠️ All figures and company names anonymized for confidentiality purposes
 
 ---
