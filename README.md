@@ -2,7 +2,7 @@
 **HR Analytics & Compensation specialist** | 14 years in mining HR | KAZ Minerals Group
 
 Skills: `SQL` `Python` `Power BI` `Excel` `Oracle HCM`
-
+- > ***Code:** [hr_etl_pipeline.py](hr_etl_pipeline.py)
 ---
 
 ## Projects
@@ -19,7 +19,7 @@ spending across 6 companies
 **Metrics covered:**
 - Budget vs actual spending by company and category
 - Awarded headcount vs actual headcount
-- > ***Code:** [hr_etl_pipeline.py](hr_etl_pipeline.py)
+
 - Category breakdown: Category 1, Category 2, Category 3, Category 4, Category 5, Category 6
 
 ## About
